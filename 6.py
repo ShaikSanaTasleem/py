@@ -1,4 +1,4 @@
-num1=int(input("enter num1: "))
-num2=int(input("enter num2: "))
-sum=num1+num2
-print("sum = ",sum)
+n1=int(input("enter num1: "))
+n2=int(input("enter num2: "))
+s=n1+n2
+print("sum = ",s)
