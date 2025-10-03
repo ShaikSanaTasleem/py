@@ -1,0 +1,13 @@
+set1={1,2,3,4}
+set2={3,4,5,6}
+set1.add(7)
+set2.remove(3)
+print(set1)
+print(set2)
+#set2.clear()
+#set1.pop()
+print(set1)
+sset=set1.union(set2)
+print(sset)
+set=set1.intersection(set2)
+print(set)
